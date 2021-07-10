@@ -1,6 +1,6 @@
 # NonLinearCurveFitting
 ![Image1](./image1.JPG)
-## Basic tool for Non linear CurveFitting
+## Basic Explanation for Non linear CurveFitting
 Using scipy 1.70 version  
 If Jupyter file make rendering issue,  
 Go below url to see jupyter notebook  
