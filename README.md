@@ -4,4 +4,4 @@
 Using scipy 1.70 version  
 If Jupyter file make rendering issue,  
 Go below url to see jupyter notebook  
-https://nbviewer.jupyter.org/gist/peardragon/c386fb2e5d2e5f67d4760c03f1b73ef7
+https://nbviewer.jupyter.org/gist/peardragon/2962fc4b04f149a90986dc2b86f43568
